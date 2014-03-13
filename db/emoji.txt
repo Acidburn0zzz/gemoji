@@ -1,0 +1,1719 @@
+😄  (1f604) smiling face with open mouth and smiling eyes
+  = smile
+😃  (1f603) smiling face with open mouth
+  = smiley
+😀  (1f600) grinning face
+  = grinning
+😊  (1f60a) smiling face with smiling eyes
+  = blush
+☺️  (263a-fe0f) white smiling face
+  = relaxed
+😉  (1f609) winking face
+  = wink
+😍  (1f60d) smiling face with heart-shaped eyes
+  = heart_eyes
+😘  (1f618) face throwing a kiss
+  = kissing_heart
+😚  (1f61a) kissing face with closed eyes
+  = kissing_closed_eyes
+😗  (1f617) kissing face
+  = kissing
+😙  (1f619) kissing face with smiling eyes
+  = kissing_smiling_eyes
+😜  (1f61c) face with stuck-out tongue and winking eye
+  = stuck_out_tongue_winking_eye
+😝  (1f61d) face with stuck-out tongue and tightly-closed eyes
+  = stuck_out_tongue_closed_eyes
+😛  (1f61b) face with stuck-out tongue
+  = stuck_out_tongue
+😳  (1f633) flushed face
+  = flushed
+😁  (1f601) grinning face with smiling eyes
+  = grin
+😔  (1f614) pensive face
+  = pensive
+😌  (1f60c) relieved face
+  = relieved
+😒  (1f612) unamused face
+  = unamused
+😞  (1f61e) disappointed face
+  = disappointed
+😣  (1f623) persevering face
+  = persevere
+😢  (1f622) crying face
+  = cry
+😂  (1f602) face with tears of joy
+  = joy
+😭  (1f62d) loudly crying face
+  = sob
+😪  (1f62a) sleepy face
+  = sleepy
+😥  (1f625) disappointed but relieved face
+  = disappointed_relieved
+😰  (1f630) face with open mouth and cold sweat
+  = cold_sweat
+😅  (1f605) smiling face with open mouth and cold sweat
+  = sweat_smile
+😓  (1f613) face with cold sweat
+  = sweat
+😩  (1f629) weary face
+  = weary
+😫  (1f62b) tired face
+  = tired_face
+😨  (1f628) fearful face
+  = fearful
+😱  (1f631) face screaming in fear
+  = scream
+😠  (1f620) angry face
+  = angry
+😡  (1f621) pouting face
+  = rage
+😤  (1f624) face with look of triumph
+  = triumph
+😖  (1f616) confounded face
+  = confounded
+😆  (1f606) smiling face with open mouth and tightly-closed eyes
+  = laughing, satisfied
+😋  (1f60b) face savouring delicious food
+  = yum
+😷  (1f637) face with medical mask
+  = mask
+😎  (1f60e) smiling face with sunglasses
+  = sunglasses
+😴  (1f634) sleeping face
+  = sleeping
+😵  (1f635) dizzy face
+  = dizzy_face
+😲  (1f632) astonished face
+  = astonished
+😟  (1f61f) worried face
+  = worried
+😦  (1f626) frowning face with open mouth
+  = frowning
+😧  (1f627) anguished face
+  = anguished
+😈  (1f608) smiling face with horns
+  = smiling_imp
+👿  (1f47f) imp
+  = imp
+😮  (1f62e) face with open mouth
+  = open_mouth
+😬  (1f62c) grimacing face
+  = grimacing
+😐  (1f610) neutral face
+  = neutral_face
+😕  (1f615) confused face
+  = confused
+😯  (1f62f) hushed face
+  = hushed
+😶  (1f636) face without mouth
+  = no_mouth
+😇  (1f607) smiling face with halo
+  = innocent
+😏  (1f60f) smirking face
+  = smirk
+😑  (1f611) expressionless face
+  = expressionless
+👲  (1f472) man with gua pi mao
+  = man_with_gua_pi_mao
+👳  (1f473) man with turban
+  = man_with_turban
+👮  (1f46e) police officer
+  = cop
+👷  (1f477) construction worker
+  = construction_worker
+💂  (1f482) guardsman
+  = guardsman
+👶  (1f476) baby
+  = baby
+👦  (1f466) boy
+  = boy
+👧  (1f467) girl
+  = girl
+👨  (1f468) man
+  = man
+👩  (1f469) woman
+  = woman
+👴  (1f474) older man
+  = older_man
+👵  (1f475) older woman
+  = older_woman
+👱  (1f471) person with blond hair
+  = person_with_blond_hair
+👼  (1f47c) baby angel
+  = angel
+👸  (1f478) princess
+  = princess
+😺  (1f63a) smiling cat face with open mouth
+  = smiley_cat
+😸  (1f638) grinning cat face with smiling eyes
+  = smile_cat
+😻  (1f63b) smiling cat face with heart-shaped eyes
+  = heart_eyes_cat
+😽  (1f63d) kissing cat face with closed eyes
+  = kissing_cat
+😼  (1f63c) cat face with wry smile
+  = smirk_cat
+🙀  (1f640) weary cat face
+  = scream_cat
+😿  (1f63f) crying cat face
+  = crying_cat_face
+😹  (1f639) cat face with tears of joy
+  = joy_cat
+😾  (1f63e) pouting cat face
+  = pouting_cat
+👹  (1f479) japanese ogre
+  = japanese_ogre
+👺  (1f47a) japanese goblin
+  = japanese_goblin
+🙈  (1f648) see-no-evil monkey
+  = see_no_evil
+🙉  (1f649) hear-no-evil monkey
+  = hear_no_evil
+🙊  (1f64a) speak-no-evil monkey
+  = speak_no_evil
+💀  (1f480) skull
+  = skull
+👽  (1f47d) extraterrestrial alien
+  = alien
+💩  (1f4a9) pile of poo
+  = hankey, poop, shit
+🔥  (1f525) fire
+  = fire
+✨  (2728) sparkles
+  = sparkles
+🌟  (1f31f) glowing star
+  = star2
+💫  (1f4ab) dizzy symbol
+  = dizzy
+💥  (1f4a5) collision symbol
+  = boom, collision
+💢  (1f4a2) anger symbol
+  = anger
+💦  (1f4a6) splashing sweat symbol
+  = sweat_drops
+💧  (1f4a7) droplet
+  = droplet
+💤  (1f4a4) sleeping symbol
+  = zzz
+💨  (1f4a8) dash symbol
+  = dash
+👂  (1f442) ear
+  = ear
+👀  (1f440) eyes
+  = eyes
+👃  (1f443) nose
+  = nose
+👅  (1f445) tongue
+  = tongue
+👄  (1f444) mouth
+  = lips
+👍  (1f44d) thumbs up sign
+  = +1, thumbsup
+👎  (1f44e) thumbs down sign
+  = -1, thumbsdown
+👌  (1f44c) ok hand sign
+  = ok_hand
+👊  (1f44a) fisted hand sign
+  = facepunch, punch
+✊  (270a) raised fist
+  = fist
+✌️  (270c-fe0f) victory hand
+  = v
+👋  (1f44b) waving hand sign
+  = wave
+✋  (270b) raised hand
+  = hand, raised_hand
+👐  (1f450) open hands sign
+  = open_hands
+👆  (1f446) white up pointing backhand index
+  = point_up_2
+👇  (1f447) white down pointing backhand index
+  = point_down
+👉  (1f449) white right pointing backhand index
+  = point_right
+👈  (1f448) white left pointing backhand index
+  = point_left
+🙌  (1f64c) person raising both hands in celebration
+  = raised_hands
+🙏  (1f64f) person with folded hands
+  = pray
+☝️  (261d-fe0f) white up pointing index
+  = point_up
+👏  (1f44f) clapping hands sign
+  = clap
+💪  (1f4aa) flexed biceps
+  = muscle
+🚶  (1f6b6) pedestrian
+  = walking
+🏃  (1f3c3) runner
+  = runner, running
+💃  (1f483) dancer
+  = dancer
+👫  (1f46b) man and woman holding hands
+  = couple
+👪  (1f46a) family
+  = family
+👬  (1f46c) two men holding hands
+  = two_men_holding_hands
+👭  (1f46d) two women holding hands
+  = two_women_holding_hands
+💏  (1f48f) kiss
+  = couplekiss
+💑  (1f491) couple with heart
+  = couple_with_heart
+👯  (1f46f) woman with bunny ears
+  = dancers
+🙆  (1f646) face with ok gesture
+  = ok_woman
+🙅  (1f645) face with no good gesture
+  = no_good
+💁  (1f481) information desk person
+  = information_desk_person
+🙋  (1f64b) happy person raising one hand
+  = raising_hand
+💆  (1f486) face massage
+  = massage
+💇  (1f487) haircut
+  = haircut
+💅  (1f485) nail polish
+  = nail_care
+👰  (1f470) bride with veil
+  = bride_with_veil
+🙎  (1f64e) person with pouting face
+  = person_with_pouting_face
+🙍  (1f64d) person frowning
+  = person_frowning
+🙇  (1f647) person bowing deeply
+  = bow
+🎩  (1f3a9) top hat
+  = tophat
+👑  (1f451) crown
+  = crown
+👒  (1f452) womans hat
+  = womans_hat
+👟  (1f45f) athletic shoe
+  = athletic_shoe
+👞  (1f45e) mans shoe
+  = mans_shoe, shoe
+👡  (1f461) womans sandal
+  = sandal
+👠  (1f460) high-heeled shoe
+  = high_heel
+👢  (1f462) womans boots
+  = boot
+👕  (1f455) t-shirt
+  = shirt, tshirt
+👔  (1f454) necktie
+  = necktie
+👚  (1f45a) womans clothes
+  = womans_clothes
+👗  (1f457) dress
+  = dress
+🎽  (1f3bd) running shirt with sash
+  = running_shirt_with_sash
+👖  (1f456) jeans
+  = jeans
+👘  (1f458) kimono
+  = kimono
+👙  (1f459) bikini
+  = bikini
+💼  (1f4bc) briefcase
+  = briefcase
+👜  (1f45c) handbag
+  = handbag
+👝  (1f45d) pouch
+  = pouch
+👛  (1f45b) purse
+  = purse
+👓  (1f453) eyeglasses
+  = eyeglasses
+🎀  (1f380) ribbon
+  = ribbon
+🌂  (1f302) closed umbrella
+  = closed_umbrella
+💄  (1f484) lipstick
+  = lipstick
+💛  (1f49b) yellow heart
+  = yellow_heart
+💙  (1f499) blue heart
+  = blue_heart
+💜  (1f49c) purple heart
+  = purple_heart
+💚  (1f49a) green heart
+  = green_heart
+❤️  (2764-fe0f) heavy black heart
+  = heart
+💔  (1f494) broken heart
+  = broken_heart
+💗  (1f497) growing heart
+  = heartpulse
+💓  (1f493) beating heart
+  = heartbeat
+💕  (1f495) two hearts
+  = two_hearts
+💖  (1f496) sparkling heart
+  = sparkling_heart
+💞  (1f49e) revolving hearts
+  = revolving_hearts
+💘  (1f498) heart with arrow
+  = cupid
+💌  (1f48c) love letter
+  = love_letter
+💋  (1f48b) kiss mark
+  = kiss
+💍  (1f48d) ring
+  = ring
+💎  (1f48e) gem stone
+  = gem
+👤  (1f464) bust in silhouette
+  = bust_in_silhouette
+👥  (1f465) busts in silhouette
+  = busts_in_silhouette
+💬  (1f4ac) speech balloon
+  = speech_balloon
+👣  (1f463) footprints
+  = footprints
+💭  (1f4ad) thought balloon
+  = thought_balloon
+🐶  (1f436) dog face
+  = dog
+🐺  (1f43a) wolf face
+  = wolf
+🐱  (1f431) cat face
+  = cat
+🐭  (1f42d) mouse face
+  = mouse
+🐹  (1f439) hamster face
+  = hamster
+🐰  (1f430) rabbit face
+  = rabbit
+🐸  (1f438) frog face
+  = frog
+🐯  (1f42f) tiger face
+  = tiger
+🐨  (1f428) koala
+  = koala
+🐻  (1f43b) bear face
+  = bear
+🐷  (1f437) pig face
+  = pig
+🐽  (1f43d) pig nose
+  = pig_nose
+🐮  (1f42e) cow face
+  = cow
+🐗  (1f417) boar
+  = boar
+🐵  (1f435) monkey face
+  = monkey_face
+🐒  (1f412) monkey
+  = monkey
+🐴  (1f434) horse face
+  = horse
+🐑  (1f411) sheep
+  = sheep
+🐘  (1f418) elephant
+  = elephant
+🐼  (1f43c) panda face
+  = panda_face
+🐧  (1f427) penguin
+  = penguin
+🐦  (1f426) bird
+  = bird
+🐤  (1f424) baby chick
+  = baby_chick
+🐥  (1f425) front-facing baby chick
+  = hatched_chick
+🐣  (1f423) hatching chick
+  = hatching_chick
+🐔  (1f414) chicken
+  = chicken
+🐍  (1f40d) snake
+  = snake
+🐢  (1f422) turtle
+  = turtle
+🐛  (1f41b) bug
+  = bug
+🐝  (1f41d) honeybee
+  = bee, honeybee
+🐜  (1f41c) ant
+  = ant
+🐞  (1f41e) lady beetle
+  = beetle
+🐌  (1f40c) snail
+  = snail
+🐙  (1f419) octopus
+  = octopus
+🐚  (1f41a) spiral shell
+  = shell
+🐠  (1f420) tropical fish
+  = tropical_fish
+🐟  (1f41f) fish
+  = fish
+🐬  (1f42c) dolphin
+  = dolphin, flipper
+🐳  (1f433) spouting whale
+  = whale
+🐋  (1f40b) whale
+  = whale2
+🐄  (1f404) cow
+  = cow2
+🐏  (1f40f) ram
+  = ram
+🐀  (1f400) rat
+  = rat
+🐃  (1f403) water buffalo
+  = water_buffalo
+🐅  (1f405) tiger
+  = tiger2
+🐇  (1f407) rabbit
+  = rabbit2
+🐉  (1f409) dragon
+  = dragon
+🐎  (1f40e) horse
+  = racehorse
+🐐  (1f410) goat
+  = goat
+🐓  (1f413) rooster
+  = rooster
+🐕  (1f415) dog
+  = dog2
+🐖  (1f416) pig
+  = pig2
+🐁  (1f401) mouse
+  = mouse2
+🐂  (1f402) ox
+  = ox
+🐲  (1f432) dragon face
+  = dragon_face
+🐡  (1f421) blowfish
+  = blowfish
+🐊  (1f40a) crocodile
+  = crocodile
+🐫  (1f42b) bactrian camel
+  = camel
+🐪  (1f42a) dromedary camel
+  = dromedary_camel
+🐆  (1f406) leopard
+  = leopard
+🐈  (1f408) cat
+  = cat2
+🐩  (1f429) poodle
+  = poodle
+🐾  (1f43e) paw prints
+  = feet, paw_prints
+💐  (1f490) bouquet
+  = bouquet
+🌸  (1f338) cherry blossom
+  = cherry_blossom
+🌷  (1f337) tulip
+  = tulip
+🍀  (1f340) four leaf clover
+  = four_leaf_clover
+🌹  (1f339) rose
+  = rose
+🌻  (1f33b) sunflower
+  = sunflower
+🌺  (1f33a) hibiscus
+  = hibiscus
+🍁  (1f341) maple leaf
+  = maple_leaf
+🍃  (1f343) leaf fluttering in wind
+  = leaves
+🍂  (1f342) fallen leaf
+  = fallen_leaf
+🌿  (1f33f) herb
+  = herb
+🌾  (1f33e) ear of rice
+  = ear_of_rice
+🍄  (1f344) mushroom
+  = mushroom
+🌵  (1f335) cactus
+  = cactus
+🌴  (1f334) palm tree
+  = palm_tree
+🌲  (1f332) evergreen tree
+  = evergreen_tree
+🌳  (1f333) deciduous tree
+  = deciduous_tree
+🌰  (1f330) chestnut
+  = chestnut
+🌱  (1f331) seedling
+  = seedling
+🌼  (1f33c) blossom
+  = blossom
+🌐  (1f310) globe with meridians
+  = globe_with_meridians
+🌞  (1f31e) sun with face
+  = sun_with_face
+🌝  (1f31d) full moon with face
+  = full_moon_with_face
+🌚  (1f31a) new moon with face
+  = new_moon_with_face
+🌑  (1f311) new moon symbol
+  = new_moon
+🌒  (1f312) waxing crescent moon symbol
+  = waxing_crescent_moon
+🌓  (1f313) first quarter moon symbol
+  = first_quarter_moon
+🌔  (1f314) waxing gibbous moon symbol
+  = moon, waxing_gibbous_moon
+🌕  (1f315) full moon symbol
+  = full_moon
+🌖  (1f316) waning gibbous moon symbol
+  = waning_gibbous_moon
+🌗  (1f317) last quarter moon symbol
+  = last_quarter_moon
+🌘  (1f318) waning crescent moon symbol
+  = waning_crescent_moon
+🌜  (1f31c) last quarter moon with face
+  = last_quarter_moon_with_face
+🌛  (1f31b) first quarter moon with face
+  = first_quarter_moon_with_face
+🌙  (1f319) crescent moon
+  = crescent_moon
+🌍  (1f30d) earth globe europe-africa
+  = earth_africa
+🌎  (1f30e) earth globe americas
+  = earth_americas
+🌏  (1f30f) earth globe asia-australia
+  = earth_asia
+🌋  (1f30b) volcano
+  = volcano
+🌌  (1f30c) milky way
+  = milky_way
+🌠  (1f320) shooting star
+  = stars
+⭐️  (2b50-fe0f) white medium star
+  = star
+☀️  (2600-fe0f) black sun with rays
+  = sunny
+⛅️  (26c5-fe0f) sun behind cloud
+  = partly_sunny
+☁️  (2601-fe0f) cloud
+  = cloud
+⚡️  (26a1-fe0f) high voltage sign
+  = zap
+☔️  (2614-fe0f) umbrella with rain drops
+  = umbrella
+❄️  (2744-fe0f) snowflake
+  = snowflake
+⛄️  (26c4-fe0f) snowman without snow
+  = snowman
+🌀  (1f300) cyclone
+  = cyclone
+🌁  (1f301) foggy
+  = foggy
+🌈  (1f308) rainbow
+  = rainbow
+🌊  (1f30a) water wave
+  = ocean
+🎍  (1f38d) pine decoration
+  = bamboo
+💝  (1f49d) heart with ribbon
+  = gift_heart
+🎎  (1f38e) japanese dolls
+  = dolls
+🎒  (1f392) school satchel
+  = school_satchel
+🎓  (1f393) graduation cap
+  = mortar_board
+🎏  (1f38f) carp streamer
+  = flags
+🎆  (1f386) fireworks
+  = fireworks
+🎇  (1f387) firework sparkler
+  = sparkler
+🎐  (1f390) wind chime
+  = wind_chime
+🎑  (1f391) moon viewing ceremony
+  = rice_scene
+🎃  (1f383) jack-o-lantern
+  = jack_o_lantern
+👻  (1f47b) ghost
+  = ghost
+🎅  (1f385) father christmas
+  = santa
+🎄  (1f384) christmas tree
+  = christmas_tree
+🎁  (1f381) wrapped present
+  = gift
+🎋  (1f38b) tanabata tree
+  = tanabata_tree
+🎉  (1f389) party popper
+  = tada
+🎊  (1f38a) confetti ball
+  = confetti_ball
+🎈  (1f388) balloon
+  = balloon
+🎌  (1f38c) crossed flags
+  = crossed_flags
+🔮  (1f52e) crystal ball
+  = crystal_ball
+🎥  (1f3a5) movie camera
+  = movie_camera
+📷  (1f4f7) camera
+  = camera
+📹  (1f4f9) video camera
+  = video_camera
+📼  (1f4fc) videocassette
+  = vhs
+💿  (1f4bf) optical disc
+  = cd
+📀  (1f4c0) dvd
+  = dvd
+💽  (1f4bd) minidisc
+  = minidisc
+💾  (1f4be) floppy disk
+  = floppy_disk
+💻  (1f4bb) personal computer
+  = computer
+📱  (1f4f1) mobile phone
+  = iphone
+☎️  (260e-fe0f) black telephone
+  = phone, telephone
+📞  (1f4de) telephone receiver
+  = telephone_receiver
+📟  (1f4df) pager
+  = pager
+📠  (1f4e0) fax machine
+  = fax
+📡  (1f4e1) satellite antenna
+  = satellite
+📺  (1f4fa) television
+  = tv
+📻  (1f4fb) radio
+  = radio
+🔊  (1f50a) speaker with three sound waves
+  = loud_sound
+🔉  (1f509) speaker with one sound wave
+  = sound
+🔈  (1f508) speaker
+  = speaker
+🔇  (1f507) speaker with cancellation stroke
+  = mute
+🔔  (1f514) bell
+  = bell
+🔕  (1f515) bell with cancellation stroke
+  = no_bell
+📢  (1f4e2) public address loudspeaker
+  = loudspeaker
+📣  (1f4e3) cheering megaphone
+  = mega
+⏳  (23f3) hourglass with flowing sand
+  = hourglass_flowing_sand
+⌛️  (231b-fe0f) hourglass
+  = hourglass
+⏰  (23f0) alarm clock
+  = alarm_clock
+⌚️  (231a-fe0f) watch
+  = watch
+🔓  (1f513) open lock
+  = unlock
+🔒  (1f512) lock
+  = lock
+🔏  (1f50f) lock with ink pen
+  = lock_with_ink_pen
+🔐  (1f510) closed lock with key
+  = closed_lock_with_key
+🔑  (1f511) key
+  = key
+🔎  (1f50e) right-pointing magnifying glass
+  = mag_right
+💡  (1f4a1) electric light bulb
+  = bulb
+🔦  (1f526) electric torch
+  = flashlight
+🔆  (1f506) high brightness symbol
+  = high_brightness
+🔅  (1f505) low brightness symbol
+  = low_brightness
+🔌  (1f50c) electric plug
+  = electric_plug
+🔋  (1f50b) battery
+  = battery
+🔍  (1f50d) left-pointing magnifying glass
+  = mag
+🛁  (1f6c1) bathtub
+  = bathtub
+🛀  (1f6c0) bath
+  = bath
+🚿  (1f6bf) shower
+  = shower
+🚽  (1f6bd) toilet
+  = toilet
+🔧  (1f527) wrench
+  = wrench
+🔩  (1f529) nut and bolt
+  = nut_and_bolt
+🔨  (1f528) hammer
+  = hammer
+🚪  (1f6aa) door
+  = door
+🚬  (1f6ac) smoking symbol
+  = smoking
+💣  (1f4a3) bomb
+  = bomb
+🔫  (1f52b) pistol
+  = gun
+🔪  (1f52a) hocho
+  = hocho, knife
+💊  (1f48a) pill
+  = pill
+💉  (1f489) syringe
+  = syringe
+💰  (1f4b0) money bag
+  = moneybag
+💴  (1f4b4) banknote with yen sign
+  = yen
+💵  (1f4b5) banknote with dollar sign
+  = dollar
+💷  (1f4b7) banknote with pound sign
+  = pound
+💶  (1f4b6) banknote with euro sign
+  = euro
+💳  (1f4b3) credit card
+  = credit_card
+💸  (1f4b8) money with wings
+  = money_with_wings
+📲  (1f4f2) mobile phone with rightwards arrow at left
+  = calling
+📧  (1f4e7) e-mail symbol
+  = e-mail
+📥  (1f4e5) inbox tray
+  = inbox_tray
+📤  (1f4e4) outbox tray
+  = outbox_tray
+✉️  (2709-fe0f) envelope
+  = email, envelope
+📩  (1f4e9) envelope with downwards arrow above
+  = envelope_with_arrow
+📨  (1f4e8) incoming envelope
+  = incoming_envelope
+📯  (1f4ef) postal horn
+  = postal_horn
+📫  (1f4eb) closed mailbox with raised flag
+  = mailbox
+📪  (1f4ea) closed mailbox with lowered flag
+  = mailbox_closed
+📬  (1f4ec) open mailbox with raised flag
+  = mailbox_with_mail
+📭  (1f4ed) open mailbox with lowered flag
+  = mailbox_with_no_mail
+📮  (1f4ee) postbox
+  = postbox
+📦  (1f4e6) package
+  = package
+📝  (1f4dd) memo
+  = memo, pencil
+📄  (1f4c4) page facing up
+  = page_facing_up
+📃  (1f4c3) page with curl
+  = page_with_curl
+📑  (1f4d1) bookmark tabs
+  = bookmark_tabs
+📊  (1f4ca) bar chart
+  = bar_chart
+📈  (1f4c8) chart with upwards trend
+  = chart_with_upwards_trend
+📉  (1f4c9) chart with downwards trend
+  = chart_with_downwards_trend
+📜  (1f4dc) scroll
+  = scroll
+📋  (1f4cb) clipboard
+  = clipboard
+📅  (1f4c5) calendar
+  = date
+📆  (1f4c6) tear-off calendar
+  = calendar
+📇  (1f4c7) card index
+  = card_index
+📁  (1f4c1) file folder
+  = file_folder
+📂  (1f4c2) open file folder
+  = open_file_folder
+✂️  (2702-fe0f) black scissors
+  = scissors
+📌  (1f4cc) pushpin
+  = pushpin
+📎  (1f4ce) paperclip
+  = paperclip
+✒️  (2712-fe0f) black nib
+  = black_nib
+✏️  (270f-fe0f) pencil
+  = pencil2
+📏  (1f4cf) straight ruler
+  = straight_ruler
+📐  (1f4d0) triangular ruler
+  = triangular_ruler
+📕  (1f4d5) closed book
+  = closed_book
+📗  (1f4d7) green book
+  = green_book
+📘  (1f4d8) blue book
+  = blue_book
+📙  (1f4d9) orange book
+  = orange_book
+📓  (1f4d3) notebook
+  = notebook
+📔  (1f4d4) notebook with decorative cover
+  = notebook_with_decorative_cover
+📒  (1f4d2) ledger
+  = ledger
+📚  (1f4da) books
+  = books
+📖  (1f4d6) open book
+  = book, open_book
+🔖  (1f516) bookmark
+  = bookmark
+📛  (1f4db) name badge
+  = name_badge
+🔬  (1f52c) microscope
+  = microscope
+🔭  (1f52d) telescope
+  = telescope
+📰  (1f4f0) newspaper
+  = newspaper
+🎨  (1f3a8) artist palette
+  = art
+🎬  (1f3ac) clapper board
+  = clapper
+🎤  (1f3a4) microphone
+  = microphone
+🎧  (1f3a7) headphone
+  = headphones
+🎼  (1f3bc) musical score
+  = musical_score
+🎵  (1f3b5) musical note
+  = musical_note
+🎶  (1f3b6) multiple musical notes
+  = notes
+🎹  (1f3b9) musical keyboard
+  = musical_keyboard
+🎻  (1f3bb) violin
+  = violin
+🎺  (1f3ba) trumpet
+  = trumpet
+🎷  (1f3b7) saxophone
+  = saxophone
+🎸  (1f3b8) guitar
+  = guitar
+👾  (1f47e) alien monster
+  = space_invader
+🎮  (1f3ae) video game
+  = video_game
+🃏  (1f0cf) playing card black joker
+  = black_joker
+🎴  (1f3b4) flower playing cards
+  = flower_playing_cards
+🀄️  (1f004-fe0f) mahjong tile red dragon
+  = mahjong
+🎲  (1f3b2) game die
+  = game_die
+🎯  (1f3af) direct hit
+  = dart
+🏈  (1f3c8) american football
+  = football
+🏀  (1f3c0) basketball and hoop
+  = basketball
+⚽️  (26bd-fe0f) soccer ball
+  = soccer
+⚾️  (26be-fe0f) baseball
+  = baseball
+🎾  (1f3be) tennis racquet and ball
+  = tennis
+🎱  (1f3b1) billiards
+  = 8ball
+🏉  (1f3c9) rugby football
+  = rugby_football
+🎳  (1f3b3) bowling
+  = bowling
+⛳️  (26f3-fe0f) flag in hole
+  = golf
+🚵  (1f6b5) mountain bicyclist
+  = mountain_bicyclist
+🚴  (1f6b4) bicyclist
+  = bicyclist
+🏁  (1f3c1) chequered flag
+  = checkered_flag
+🏇  (1f3c7) horse racing
+  = horse_racing
+🏆  (1f3c6) trophy
+  = trophy
+🎿  (1f3bf) ski and ski boot
+  = ski
+🏂  (1f3c2) snowboarder
+  = snowboarder
+🏊  (1f3ca) swimmer
+  = swimmer
+🏄  (1f3c4) surfer
+  = surfer
+🎣  (1f3a3) fishing pole and fish
+  = fishing_pole_and_fish
+☕️  (2615-fe0f) hot beverage
+  = coffee
+🍵  (1f375) teacup without handle
+  = tea
+🍶  (1f376) sake bottle and cup
+  = sake
+🍼  (1f37c) baby bottle
+  = baby_bottle
+🍺  (1f37a) beer mug
+  = beer
+🍻  (1f37b) clinking beer mugs
+  = beers
+🍸  (1f378) cocktail glass
+  = cocktail
+🍹  (1f379) tropical drink
+  = tropical_drink
+🍷  (1f377) wine glass
+  = wine_glass
+🍴  (1f374) fork and knife
+  = fork_and_knife
+🍕  (1f355) slice of pizza
+  = pizza
+🍔  (1f354) hamburger
+  = hamburger
+🍟  (1f35f) french fries
+  = fries
+🍗  (1f357) poultry leg
+  = poultry_leg
+🍖  (1f356) meat on bone
+  = meat_on_bone
+🍝  (1f35d) spaghetti
+  = spaghetti
+🍛  (1f35b) curry and rice
+  = curry
+🍤  (1f364) fried shrimp
+  = fried_shrimp
+🍱  (1f371) bento box
+  = bento
+🍣  (1f363) sushi
+  = sushi
+🍥  (1f365) fish cake with swirl design
+  = fish_cake
+🍙  (1f359) rice ball
+  = rice_ball
+🍘  (1f358) rice cracker
+  = rice_cracker
+🍚  (1f35a) cooked rice
+  = rice
+🍜  (1f35c) steaming bowl
+  = ramen
+🍲  (1f372) pot of food
+  = stew
+🍢  (1f362) oden
+  = oden
+🍡  (1f361) dango
+  = dango
+🍳  (1f373) cooking
+  = egg
+🍞  (1f35e) bread
+  = bread
+🍩  (1f369) doughnut
+  = doughnut
+🍮  (1f36e) custard
+  = custard
+🍦  (1f366) soft ice cream
+  = icecream
+🍨  (1f368) ice cream
+  = ice_cream
+🍧  (1f367) shaved ice
+  = shaved_ice
+🎂  (1f382) birthday cake
+  = birthday
+🍰  (1f370) shortcake
+  = cake
+🍪  (1f36a) cookie
+  = cookie
+🍫  (1f36b) chocolate bar
+  = chocolate_bar
+🍬  (1f36c) candy
+  = candy
+🍭  (1f36d) lollipop
+  = lollipop
+🍯  (1f36f) honey pot
+  = honey_pot
+🍎  (1f34e) red apple
+  = apple
+🍏  (1f34f) green apple
+  = green_apple
+🍊  (1f34a) tangerine
+  = tangerine
+🍋  (1f34b) lemon
+  = lemon
+🍒  (1f352) cherries
+  = cherries
+🍇  (1f347) grapes
+  = grapes
+🍉  (1f349) watermelon
+  = watermelon
+🍓  (1f353) strawberry
+  = strawberry
+🍑  (1f351) peach
+  = peach
+🍈  (1f348) melon
+  = melon
+🍌  (1f34c) banana
+  = banana
+🍐  (1f350) pear
+  = pear
+🍍  (1f34d) pineapple
+  = pineapple
+🍠  (1f360) roasted sweet potato
+  = sweet_potato
+🍆  (1f346) aubergine
+  = eggplant
+🍅  (1f345) tomato
+  = tomato
+🌽  (1f33d) ear of maize
+  = corn
+🏠  (1f3e0) house building
+  = house
+🏡  (1f3e1) house with garden
+  = house_with_garden
+🏫  (1f3eb) school
+  = school
+🏢  (1f3e2) office building
+  = office
+🏣  (1f3e3) japanese post office
+  = post_office
+🏥  (1f3e5) hospital
+  = hospital
+🏦  (1f3e6) bank
+  = bank
+🏪  (1f3ea) convenience store
+  = convenience_store
+🏩  (1f3e9) love hotel
+  = love_hotel
+🏨  (1f3e8) hotel
+  = hotel
+💒  (1f492) wedding
+  = wedding
+⛪️  (26ea-fe0f) church
+  = church
+🏬  (1f3ec) department store
+  = department_store
+🏤  (1f3e4) european post office
+  = european_post_office
+🌇  (1f307) sunset over buildings
+  = city_sunrise
+🌆  (1f306) cityscape at dusk
+  = city_sunset
+🏯  (1f3ef) japanese castle
+  = japanese_castle
+🏰  (1f3f0) european castle
+  = european_castle
+⛺️  (26fa-fe0f) tent
+  = tent
+🏭  (1f3ed) factory
+  = factory
+🗼  (1f5fc) tokyo tower
+  = tokyo_tower
+🗾  (1f5fe) silhouette of japan
+  = japan
+🗻  (1f5fb) mount fuji
+  = mount_fuji
+🌄  (1f304) sunrise over mountains
+  = sunrise_over_mountains
+🌅  (1f305) sunrise
+  = sunrise
+🌃  (1f303) night with stars
+  = night_with_stars
+🗽  (1f5fd) statue of liberty
+  = statue_of_liberty
+🌉  (1f309) bridge at night
+  = bridge_at_night
+🎠  (1f3a0) carousel horse
+  = carousel_horse
+🎡  (1f3a1) ferris wheel
+  = ferris_wheel
+⛲️  (26f2-fe0f) fountain
+  = fountain
+🎢  (1f3a2) roller coaster
+  = roller_coaster
+🚢  (1f6a2) ship
+  = ship
+⛵️  (26f5-fe0f) sailboat
+  = boat, sailboat
+🚤  (1f6a4) speedboat
+  = speedboat
+🚣  (1f6a3) rowboat
+  = rowboat
+⚓️  (2693-fe0f) anchor
+  = anchor
+🚀  (1f680) rocket
+  = rocket
+✈️  (2708-fe0f) airplane
+  = airplane
+💺  (1f4ba) seat
+  = seat
+🚁  (1f681) helicopter
+  = helicopter
+🚂  (1f682) steam locomotive
+  = steam_locomotive
+🚊  (1f68a) tram
+  = tram
+🚉  (1f689) station
+  = station
+🚞  (1f69e) mountain railway
+  = mountain_railway
+🚆  (1f686) train
+  = train2
+🚄  (1f684) high-speed train
+  = bullettrain_side
+🚅  (1f685) high-speed train with bullet nose
+  = bullettrain_front
+🚈  (1f688) light rail
+  = light_rail
+🚇  (1f687) metro
+  = metro
+🚝  (1f69d) monorail
+  = monorail
+🚋  (1f68b) tram car
+  = train
+🚃  (1f683) railway car
+  = railway_car
+🚎  (1f68e) trolleybus
+  = trolleybus
+🚌  (1f68c) bus
+  = bus
+🚍  (1f68d) oncoming bus
+  = oncoming_bus
+🚙  (1f699) recreational vehicle
+  = blue_car
+🚘  (1f698) oncoming automobile
+  = oncoming_automobile
+🚗  (1f697) automobile
+  = car, red_car
+🚕  (1f695) taxi
+  = taxi
+🚖  (1f696) oncoming taxi
+  = oncoming_taxi
+🚛  (1f69b) articulated lorry
+  = articulated_lorry
+🚚  (1f69a) delivery truck
+  = truck
+🚨  (1f6a8) police cars revolving light
+  = rotating_light
+🚓  (1f693) police car
+  = police_car
+🚔  (1f694) oncoming police car
+  = oncoming_police_car
+🚒  (1f692) fire engine
+  = fire_engine
+🚑  (1f691) ambulance
+  = ambulance
+🚐  (1f690) minibus
+  = minibus
+🚲  (1f6b2) bicycle
+  = bike
+🚡  (1f6a1) aerial tramway
+  = aerial_tramway
+🚟  (1f69f) suspension railway
+  = suspension_railway
+🚠  (1f6a0) mountain cableway
+  = mountain_cableway
+🚜  (1f69c) tractor
+  = tractor
+💈  (1f488) barber pole
+  = barber
+🚏  (1f68f) bus stop
+  = busstop
+🎫  (1f3ab) ticket
+  = ticket
+🚦  (1f6a6) vertical traffic light
+  = vertical_traffic_light
+🚥  (1f6a5) horizontal traffic light
+  = traffic_light
+⚠️  (26a0-fe0f) warning sign
+  = warning
+🚧  (1f6a7) construction sign
+  = construction
+🔰  (1f530) japanese symbol for beginner
+  = beginner
+⛽️  (26fd-fe0f) fuel pump
+  = fuelpump
+🏮  (1f3ee) izakaya lantern
+  = izakaya_lantern, lantern
+🎰  (1f3b0) slot machine
+  = slot_machine
+♨️  (2668-fe0f) hot springs
+  = hotsprings
+🗿  (1f5ff) moyai
+  = moyai
+🎪  (1f3aa) circus tent
+  = circus_tent
+🎭  (1f3ad) performing arts
+  = performing_arts
+📍  (1f4cd) round pushpin
+  = round_pushpin
+🚩  (1f6a9) triangular flag on post
+  = triangular_flag_on_post
+🇯🇵  (1f1ef-1f1f5) regional indicator symbol letter j + regional indicator symbol letter p
+  = jp
+🇰🇷  (1f1f0-1f1f7) regional indicator symbol letter k + regional indicator symbol letter r
+  = kr
+🇩🇪  (1f1e9-1f1ea) regional indicator symbol letter d + regional indicator symbol letter e
+  = de
+🇨🇳  (1f1e8-1f1f3) regional indicator symbol letter c + regional indicator symbol letter n
+  = cn
+🇺🇸  (1f1fa-1f1f8) regional indicator symbol letter u + regional indicator symbol letter s
+  = us
+🇫🇷  (1f1eb-1f1f7) regional indicator symbol letter f + regional indicator symbol letter r
+  = fr
+🇪🇸  (1f1ea-1f1f8) regional indicator symbol letter e + regional indicator symbol letter s
+  = es
+🇮🇹  (1f1ee-1f1f9) regional indicator symbol letter i + regional indicator symbol letter t
+  = it
+🇷🇺  (1f1f7-1f1fa) regional indicator symbol letter r + regional indicator symbol letter u
+  = ru
+🇬🇧  (1f1ec-1f1e7) regional indicator symbol letter g + regional indicator symbol letter b
+  = gb, uk
+1️⃣  (0031-fe0f-20e3) digit one + combining enclosing keycap
+  = one
+2️⃣  (0032-fe0f-20e3) digit two + combining enclosing keycap
+  = two
+3️⃣  (0033-fe0f-20e3) digit three + combining enclosing keycap
+  = three
+4️⃣  (0034-fe0f-20e3) digit four + combining enclosing keycap
+  = four
+5️⃣  (0035-fe0f-20e3) digit five + combining enclosing keycap
+  = five
+6️⃣  (0036-fe0f-20e3) digit six + combining enclosing keycap
+  = six
+7️⃣  (0037-fe0f-20e3) digit seven + combining enclosing keycap
+  = seven
+8️⃣  (0038-fe0f-20e3) digit eight + combining enclosing keycap
+  = eight
+9️⃣  (0039-fe0f-20e3) digit nine + combining enclosing keycap
+  = nine
+0️⃣  (0030-fe0f-20e3) digit zero + combining enclosing keycap
+  = zero
+🔟  (1f51f) keycap ten
+  = keycap_ten
+🔢  (1f522) input symbol for numbers
+  = 1234
+#️⃣  (0023-fe0f-20e3) number sign + combining enclosing keycap
+  = hash
+🔣  (1f523) input symbol for symbols
+  = symbols
+⬆️  (2b06-fe0f) upwards black arrow
+  = arrow_up
+⬇️  (2b07-fe0f) downwards black arrow
+  = arrow_down
+⬅️  (2b05-fe0f) leftwards black arrow
+  = arrow_left
+➡️  (27a1-fe0f) black rightwards arrow
+  = arrow_right
+🔠  (1f520) input symbol for latin capital letters
+  = capital_abcd
+🔡  (1f521) input symbol for latin small letters
+  = abcd
+🔤  (1f524) input symbol for latin letters
+  = abc
+↗️  (2197-fe0f) north east arrow
+  = arrow_upper_right
+↖️  (2196-fe0f) north west arrow
+  = arrow_upper_left
+↘️  (2198-fe0f) south east arrow
+  = arrow_lower_right
+↙️  (2199-fe0f) south west arrow
+  = arrow_lower_left
+↔️  (2194-fe0f) left right arrow
+  = left_right_arrow
+↕️  (2195-fe0f) up down arrow
+  = arrow_up_down
+🔄  (1f504) anticlockwise downwards and upwards open circle arrows
+  = arrows_counterclockwise
+◀️  (25c0-fe0f) black left-pointing triangle
+  = arrow_backward
+▶️  (25b6-fe0f) black right-pointing triangle
+  = arrow_forward
+🔼  (1f53c) up-pointing small red triangle
+  = arrow_up_small
+🔽  (1f53d) down-pointing small red triangle
+  = arrow_down_small
+↩️  (21a9-fe0f) leftwards arrow with hook
+  = leftwards_arrow_with_hook
+↪️  (21aa-fe0f) rightwards arrow with hook
+  = arrow_right_hook
+ℹ️  (2139-fe0f) information source
+  = information_source
+⏪  (23ea) black left-pointing double triangle
+  = rewind
+⏩  (23e9) black right-pointing double triangle
+  = fast_forward
+⏫  (23eb) black up-pointing double triangle
+  = arrow_double_up
+⏬  (23ec) black down-pointing double triangle
+  = arrow_double_down
+⤵️  (2935-fe0f) arrow pointing rightwards then curving downwards
+  = arrow_heading_down
+⤴️  (2934-fe0f) arrow pointing rightwards then curving upwards
+  = arrow_heading_up
+🆗  (1f197) squared ok
+  = ok
+🔀  (1f500) twisted rightwards arrows
+  = twisted_rightwards_arrows
+🔁  (1f501) clockwise rightwards and leftwards open circle arrows
+  = repeat
+🔂  (1f502) clockwise rightwards and leftwards open circle arrows with circled one overlay
+  = repeat_one
+🆕  (1f195) squared new
+  = new
+🆙  (1f199) squared up with exclamation mark
+  = up
+🆒  (1f192) squared cool
+  = cool
+🆓  (1f193) squared free
+  = free
+🆖  (1f196) squared ng
+  = ng
+📶  (1f4f6) antenna with bars
+  = signal_strength
+🎦  (1f3a6) cinema
+  = cinema
+🈁  (1f201) squared katakana koko
+  = koko
+🈯️  (1f22f-fe0f) squared cjk unified ideograph-6307
+  = u6307
+  + 6307
+🈳  (1f233) squared cjk unified ideograph-7a7a
+  = u7a7a
+  + 7a7a
+🈵  (1f235) squared cjk unified ideograph-6e80
+  = u6e80
+  + 6e80
+🈴  (1f234) squared cjk unified ideograph-5408
+  = u5408
+  + 5408
+🈲  (1f232) squared cjk unified ideograph-7981
+  = u7981
+  + 7981
+🉐  (1f250) circled ideograph advantage
+  = ideograph_advantage
+🈹  (1f239) squared cjk unified ideograph-5272
+  = u5272
+  + 5272
+🈺  (1f23a) squared cjk unified ideograph-55b6
+  = u55b6
+  + 55b6
+🈶  (1f236) squared cjk unified ideograph-6709
+  = u6709
+  + 6709
+🈚️  (1f21a-fe0f) squared cjk unified ideograph-7121
+  = u7121
+  + 7121
+🚻  (1f6bb) restroom
+  = restroom
+🚹  (1f6b9) mens symbol
+  = mens
+🚺  (1f6ba) womens symbol
+  = womens
+🚼  (1f6bc) baby symbol
+  = baby_symbol
+🚾  (1f6be) water closet
+  = wc
+🚰  (1f6b0) potable water symbol
+  = potable_water
+🚮  (1f6ae) put litter in its place symbol
+  = put_litter_in_its_place
+🅿️  (1f17f-fe0f) negative squared latin capital letter p
+  = parking
+♿️  (267f-fe0f) wheelchair symbol
+  = wheelchair
+🚭  (1f6ad) no smoking symbol
+  = no_smoking
+🈷  (1f237) squared cjk unified ideograph-6708
+  = u6708
+  + 6708
+🈸  (1f238) squared cjk unified ideograph-7533
+  = u7533
+  + 7533
+🈂  (1f202) squared katakana sa
+  = sa
+Ⓜ️  (24c2-fe0f) circled latin capital letter m
+  = m
+🛂  (1f6c2) passport control
+  = passport_control
+🛄  (1f6c4) baggage claim
+  = baggage_claim
+🛅  (1f6c5) left luggage
+  = left_luggage
+🛃  (1f6c3) customs
+  = customs
+🉑  (1f251) circled ideograph accept
+  = accept
+㊙️  (3299-fe0f) circled ideograph secret
+  = secret
+㊗️  (3297-fe0f) circled ideograph congratulation
+  = congratulations
+🆑  (1f191) squared cl
+  = cl
+🆘  (1f198) squared sos
+  = sos
+🆔  (1f194) squared id
+  = id
+🚫  (1f6ab) no entry sign
+  = no_entry_sign
+🔞  (1f51e) no one under eighteen symbol
+  = underage
+📵  (1f4f5) no mobile phones
+  = no_mobile_phones
+🚯  (1f6af) do not litter symbol
+  = do_not_litter
+🚱  (1f6b1) non-potable water symbol
+  = non-potable_water
+🚳  (1f6b3) no bicycles
+  = no_bicycles
+🚷  (1f6b7) no pedestrians
+  = no_pedestrians
+🚸  (1f6b8) children crossing
+  = children_crossing
+⛔️  (26d4-fe0f) no entry
+  = no_entry
+✳️  (2733-fe0f) eight spoked asterisk
+  = eight_spoked_asterisk
+❇️  (2747-fe0f) sparkle
+  = sparkle
+❎  (274e) negative squared cross mark
+  = negative_squared_cross_mark
+✅  (2705) white heavy check mark
+  = white_check_mark
+✴️  (2734-fe0f) eight pointed black star
+  = eight_pointed_black_star
+💟  (1f49f) heart decoration
+  = heart_decoration
+🆚  (1f19a) squared vs
+  = vs
+📳  (1f4f3) vibration mode
+  = vibration_mode
+📴  (1f4f4) mobile phone off
+  = mobile_phone_off
+🅰  (1f170) negative squared latin capital letter a
+  = a
+🅱  (1f171) negative squared latin capital letter b
+  = b
+🆎  (1f18e) negative squared ab
+  = ab
+🅾  (1f17e) negative squared latin capital letter o
+  = o2
+💠  (1f4a0) diamond shape with a dot inside
+  = diamond_shape_with_a_dot_inside
+➿  (27bf) double curly loop
+  = loop
+♻️  (267b-fe0f) black universal recycling symbol
+  = recycle
+♈️  (2648-fe0f) aries
+  = aries
+♉️  (2649-fe0f) taurus
+  = taurus
+♊️  (264a-fe0f) gemini
+  = gemini
+♋️  (264b-fe0f) cancer
+  = cancer
+♌️  (264c-fe0f) leo
+  = leo
+♍️  (264d-fe0f) virgo
+  = virgo
+♎️  (264e-fe0f) libra
+  = libra
+♏️  (264f-fe0f) scorpius
+  = scorpius
+♐️  (2650-fe0f) sagittarius
+  = sagittarius
+♑️  (2651-fe0f) capricorn
+  = capricorn
+♒️  (2652-fe0f) aquarius
+  = aquarius
+♓️  (2653-fe0f) pisces
+  = pisces
+⛎  (26ce) ophiuchus
+  = ophiuchus
+🔯  (1f52f) six pointed star with middle dot
+  = six_pointed_star
+🏧  (1f3e7) automated teller machine
+  = atm
+💹  (1f4b9) chart with upwards trend and yen sign
+  = chart
+💲  (1f4b2) heavy dollar sign
+  = heavy_dollar_sign
+💱  (1f4b1) currency exchange
+  = currency_exchange
+©  (00a9) copyright sign
+  = copyright
+®  (00ae) registered sign
+  = registered
+™  (2122) trade mark sign
+  = tm
+❌  (274c) cross mark
+  = x
+‼️  (203c-fe0f) double exclamation mark
+  = bangbang
+⁉️  (2049-fe0f) exclamation question mark
+  = interrobang
+❗️  (2757-fe0f) heavy exclamation mark symbol
+  = exclamation, heavy_exclamation_mark
+❓  (2753) black question mark ornament
+  = question
+❕  (2755) white exclamation mark ornament
+  = grey_exclamation
+❔  (2754) white question mark ornament
+  = grey_question
+⭕️  (2b55-fe0f) heavy large circle
+  = o
+🔝  (1f51d) top with upwards arrow above
+  = top
+🔚  (1f51a) end with leftwards arrow above
+  = end
+🔙  (1f519) back with leftwards arrow above
+  = back
+🔛  (1f51b) on with exclamation mark with left right arrow above
+  = on
+🔜  (1f51c) soon with rightwards arrow above
+  = soon
+🔃  (1f503) clockwise downwards and upwards open circle arrows
+  = arrows_clockwise
+🕛  (1f55b) clock face twelve oclock
+  = clock12
+🕧  (1f567) clock face twelve-thirty
+  = clock1230
+🕐  (1f550) clock face one oclock
+  = clock1
+🕜  (1f55c) clock face one-thirty
+  = clock130
+🕑  (1f551) clock face two oclock
+  = clock2
+🕝  (1f55d) clock face two-thirty
+  = clock230
+🕒  (1f552) clock face three oclock
+  = clock3
+🕞  (1f55e) clock face three-thirty
+  = clock330
+🕓  (1f553) clock face four oclock
+  = clock4
+🕟  (1f55f) clock face four-thirty
+  = clock430
+🕔  (1f554) clock face five oclock
+  = clock5
+🕠  (1f560) clock face five-thirty
+  = clock530
+🕕  (1f555) clock face six oclock
+  = clock6
+🕖  (1f556) clock face seven oclock
+  = clock7
+🕗  (1f557) clock face eight oclock
+  = clock8
+🕘  (1f558) clock face nine oclock
+  = clock9
+🕙  (1f559) clock face ten oclock
+  = clock10
+🕚  (1f55a) clock face eleven oclock
+  = clock11
+🕡  (1f561) clock face six-thirty
+  = clock630
+🕢  (1f562) clock face seven-thirty
+  = clock730
+🕣  (1f563) clock face eight-thirty
+  = clock830
+🕤  (1f564) clock face nine-thirty
+  = clock930
+🕥  (1f565) clock face ten-thirty
+  = clock1030
+🕦  (1f566) clock face eleven-thirty
+  = clock1130
+✖️  (2716-fe0f) heavy multiplication x
+  = heavy_multiplication_x
+➕  (2795) heavy plus sign
+  = heavy_plus_sign
+➖  (2796) heavy minus sign
+  = heavy_minus_sign
+➗  (2797) heavy division sign
+  = heavy_division_sign
+♠️  (2660-fe0f) black spade suit
+  = spades
+♥️  (2665-fe0f) black heart suit
+  = hearts
+♣️  (2663-fe0f) black club suit
+  = clubs
+♦️  (2666-fe0f) black diamond suit
+  = diamonds
+💮  (1f4ae) white flower
+  = white_flower
+💯  (1f4af) hundred points symbol
+  = 100
+✔️  (2714-fe0f) heavy check mark
+  = heavy_check_mark
+☑️  (2611-fe0f) ballot box with check
+  = ballot_box_with_check
+🔘  (1f518) radio button
+  = radio_button
+🔗  (1f517) link symbol
+  = link
+➰  (27b0) curly loop
+  = curly_loop
+〰  (3030) wavy dash
+  = wavy_dash
+〽️  (303d-fe0f) part alternation mark
+  = part_alternation_mark
+🔱  (1f531) trident emblem
+  = trident
+◼️  (25fc-fe0f) black medium square
+  = black_medium_square
+◻️  (25fb-fe0f) white medium square
+  = white_medium_square
+◾️  (25fe-fe0f) black medium small square
+  = black_medium_small_square
+◽️  (25fd-fe0f) white medium small square
+  = white_medium_small_square
+▪️  (25aa-fe0f) black small square
+  = black_small_square
+▫️  (25ab-fe0f) white small square
+  = white_small_square
+🔺  (1f53a) up-pointing red triangle
+  = small_red_triangle
+🔲  (1f532) black square button
+  = black_square_button
+🔳  (1f533) white square button
+  = white_square_button
+⚫️  (26ab-fe0f) medium black circle
+  = black_circle
+⚪️  (26aa-fe0f) medium white circle
+  = white_circle
+🔴  (1f534) large red circle
+  = red_circle
+🔵  (1f535) large blue circle
+  = large_blue_circle
+🔻  (1f53b) down-pointing red triangle
+  = small_red_triangle_down
+⬜️  (2b1c-fe0f) white large square
+  = white_large_square
+⬛️  (2b1b-fe0f) black large square
+  = black_large_square
+🔶  (1f536) large orange diamond
+  = large_orange_diamond
+🔷  (1f537) large blue diamond
+  = large_blue_diamond
+🔸  (1f538) small orange diamond
+  = small_orange_diamond
+🔹  (1f539) small blue diamond
+  = small_blue_diamond
+bowtie (custom)
+feelsgood (custom)
+finnadie (custom)
+fu (custom)
+goberserk (custom)
+godmode (custom)
+hurtrealbad (custom)
+metal (custom)
+neckbeard (custom)
+octocat (custom)
+rage1 (custom)
+rage2 (custom)
+rage3 (custom)
+rage4 (custom)
+shipit (custom)
+squirrel (custom)
+suspect (custom)
+trollface (custom)
