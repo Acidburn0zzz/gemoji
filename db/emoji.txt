@@ -1,19 +1,27 @@
 😄  (1f604) smiling face with open mouth and smiling eyes
   = smile
+  ~ happy, joy, pleased
 😃  (1f603) smiling face with open mouth
   = smiley
+  ~ happy, joy, haha
 😀  (1f600) grinning face
   = grinning
+  ~ smile, happy
 😊  (1f60a) smiling face with smiling eyes
   = blush
+  ~ proud
 ☺️  (263a-fe0f) white smiling face
   = relaxed
+  ~ blush, pleased
 😉  (1f609) winking face
   = wink
+  ~ flirt
 😍  (1f60d) smiling face with heart-shaped eyes
   = heart_eyes
+  ~ love, crush
 😘  (1f618) face throwing a kiss
   = kissing_heart
+  ~ flirt
 😚  (1f61a) kissing face with closed eyes
   = kissing_closed_eyes
 😗  (1f617) kissing face
@@ -22,64 +30,87 @@
   = kissing_smiling_eyes
 😜  (1f61c) face with stuck-out tongue and winking eye
   = stuck_out_tongue_winking_eye
+  ~ prank, silly
 😝  (1f61d) face with stuck-out tongue and tightly-closed eyes
   = stuck_out_tongue_closed_eyes
+  ~ prank
 😛  (1f61b) face with stuck-out tongue
   = stuck_out_tongue
 😳  (1f633) flushed face
   = flushed
+  ~ shocked
 😁  (1f601) grinning face with smiling eyes
   = grin
 😔  (1f614) pensive face
   = pensive
+  ~ sad
 😌  (1f60c) relieved face
   = relieved
 😒  (1f612) unamused face
   = unamused
 😞  (1f61e) disappointed face
   = disappointed
+  ~ sad
 😣  (1f623) persevering face
   = persevere
+  ~ upset
 😢  (1f622) crying face
   = cry
+  ~ sad
 😂  (1f602) face with tears of joy
   = joy
 😭  (1f62d) loudly crying face
   = sob
+  ~ sad, cry
 😪  (1f62a) sleepy face
   = sleepy
+  ~ tired
 😥  (1f625) disappointed but relieved face
   = disappointed_relieved
+  ~ phew, sweat, nervous
 😰  (1f630) face with open mouth and cold sweat
   = cold_sweat
+  ~ nervous
 😅  (1f605) smiling face with open mouth and cold sweat
   = sweat_smile
+  ~ hot
 😓  (1f613) face with cold sweat
   = sweat
 😩  (1f629) weary face
   = weary
+  ~ tired
 😫  (1f62b) tired face
   = tired_face
+  ~ upset, whine
 😨  (1f628) fearful face
   = fearful
+  ~ scared, oops, gasp
 😱  (1f631) face screaming in fear
   = scream
+  ~ horror
 😠  (1f620) angry face
   = angry
+  ~ mad, annoyed
 😡  (1f621) pouting face
   = rage
+  ~ angry
 😤  (1f624) face with look of triumph
   = triumph
+  ~ smug
 😖  (1f616) confounded face
   = confounded
 😆  (1f606) smiling face with open mouth and tightly-closed eyes
   = laughing, satisfied
+  ~ happy, haha
 😋  (1f60b) face savouring delicious food
   = yum
+  ~ tongue, lick
 😷  (1f637) face with medical mask
   = mask
+  ~ sick, ill
 😎  (1f60e) smiling face with sunglasses
   = sunglasses
+  ~ cool
 😴  (1f634) sleeping face
   = sleeping
 😵  (1f635) dizzy face
@@ -88,20 +119,26 @@
   = astonished
 😟  (1f61f) worried face
   = worried
+  ~ nervous
 😦  (1f626) frowning face with open mouth
   = frowning
 😧  (1f627) anguished face
   = anguished
+  ~ stunned
 😈  (1f608) smiling face with horns
   = smiling_imp
+  ~ devil, evil, horns
 👿  (1f47f) imp
   = imp
+  ~ angry, devil, evil, horns
 😮  (1f62e) face with open mouth
   = open_mouth
+  ~ surprise, impressed, wow
 😬  (1f62c) grimacing face
   = grimacing
 😐  (1f610) neutral face
   = neutral_face
+  ~ meh
 😕  (1f615) confused face
   = confused
 😯  (1f62f) hushed face
@@ -110,8 +147,10 @@
   = no_mouth
 😇  (1f607) smiling face with halo
   = innocent
+  ~ angel
 😏  (1f60f) smirking face
   = smirk
+  ~ smug
 😑  (1f611) expressionless face
   = expressionless
 👲  (1f472) man with gua pi mao
@@ -120,30 +159,39 @@
   = man_with_turban
 👮  (1f46e) police officer
   = cop
+  ~ police, law
 👷  (1f477) construction worker
   = construction_worker
+  ~ helmet
 💂  (1f482) guardsman
   = guardsman
 👶  (1f476) baby
   = baby
+  ~ child, newborn
 👦  (1f466) boy
   = boy
+  ~ child
 👧  (1f467) girl
   = girl
+  ~ child
 👨  (1f468) man
   = man
+  ~ mustache, father, dad
 👩  (1f469) woman
   = woman
+  ~ girls
 👴  (1f474) older man
   = older_man
 👵  (1f475) older woman
   = older_woman
 👱  (1f471) person with blond hair
   = person_with_blond_hair
+  ~ boy
 👼  (1f47c) baby angel
   = angel
 👸  (1f478) princess
   = princess
+  ~ blonde, crown, royal
 😺  (1f63a) smiling cat face with open mouth
   = smiley_cat
 😸  (1f638) grinning cat face with smiling eyes
@@ -156,74 +204,100 @@
   = smirk_cat
 🙀  (1f640) weary cat face
   = scream_cat
+  ~ horror
 😿  (1f63f) crying cat face
   = crying_cat_face
+  ~ sad, tears
 😹  (1f639) cat face with tears of joy
   = joy_cat
 😾  (1f63e) pouting cat face
   = pouting_cat
 👹  (1f479) japanese ogre
   = japanese_ogre
+  ~ monster
 👺  (1f47a) japanese goblin
   = japanese_goblin
 🙈  (1f648) see-no-evil monkey
   = see_no_evil
+  ~ monkey, blind, ignore
 🙉  (1f649) hear-no-evil monkey
   = hear_no_evil
+  ~ monkey, deaf
 🙊  (1f64a) speak-no-evil monkey
   = speak_no_evil
+  ~ monkey, mute, hush
 💀  (1f480) skull
   = skull
+  ~ dead, danger, poison
 👽  (1f47d) extraterrestrial alien
   = alien
+  ~ ufo
 💩  (1f4a9) pile of poo
   = hankey, poop, shit
 🔥  (1f525) fire
   = fire
+  ~ burn
 ✨  (2728) sparkles
   = sparkles
+  ~ shiny
 🌟  (1f31f) glowing star
   = star2
 💫  (1f4ab) dizzy symbol
   = dizzy
+  ~ star
 💥  (1f4a5) collision symbol
   = boom, collision
 💢  (1f4a2) anger symbol
   = anger
+  ~ angry
 💦  (1f4a6) splashing sweat symbol
   = sweat_drops
+  ~ water, workout
 💧  (1f4a7) droplet
   = droplet
+  ~ water
 💤  (1f4a4) sleeping symbol
   = zzz
+  ~ sleeping
 💨  (1f4a8) dash symbol
   = dash
+  ~ wind, blow, fast
 👂  (1f442) ear
   = ear
+  ~ hear, sound, listen
 👀  (1f440) eyes
   = eyes
+  ~ look, see, watch
 👃  (1f443) nose
   = nose
+  ~ smell
 👅  (1f445) tongue
   = tongue
 👄  (1f444) mouth
   = lips
 👍  (1f44d) thumbs up sign
   = +1, thumbsup
+  ~ approve
 👎  (1f44e) thumbs down sign
   = -1, thumbsdown
+  ~ bury
 👌  (1f44c) ok hand sign
   = ok_hand
 👊  (1f44a) fisted hand sign
   = facepunch, punch
+  ~ attack
 ✊  (270a) raised fist
   = fist
+  ~ power
 ✌️  (270c-fe0f) victory hand
   = v
+  ~ victory, peace
 👋  (1f44b) waving hand sign
   = wave
+  ~ goodbye
 ✋  (270b) raised hand
   = hand, raised_hand
+  ~ highfive, stop
 👐  (1f450) open hands sign
   = open_hands
 👆  (1f446) white up pointing backhand index
@@ -236,104 +310,136 @@
   = point_left
 🙌  (1f64c) person raising both hands in celebration
   = raised_hands
+  ~ hooray
 🙏  (1f64f) person with folded hands
   = pray
+  ~ please, hope, wish
 ☝️  (261d-fe0f) white up pointing index
   = point_up
 👏  (1f44f) clapping hands sign
   = clap
+  ~ praise, applause
 💪  (1f4aa) flexed biceps
   = muscle
+  ~ flex, bicep, strong, workout
 🚶  (1f6b6) pedestrian
   = walking
 🏃  (1f3c3) runner
   = runner, running
+  ~ exercise, workout, marathon
 💃  (1f483) dancer
   = dancer
+  ~ dress
 👫  (1f46b) man and woman holding hands
   = couple
+  ~ date
 👪  (1f46a) family
   = family
+  ~ home, parents, child
 👬  (1f46c) two men holding hands
   = two_men_holding_hands
+  ~ couple, date
 👭  (1f46d) two women holding hands
   = two_women_holding_hands
+  ~ couple, date
 💏  (1f48f) kiss
   = couplekiss
 💑  (1f491) couple with heart
   = couple_with_heart
 👯  (1f46f) woman with bunny ears
   = dancers
+  ~ bunny
 🙆  (1f646) face with ok gesture
   = ok_woman
 🙅  (1f645) face with no good gesture
   = no_good
+  ~ stop, halt
 💁  (1f481) information desk person
   = information_desk_person
 🙋  (1f64b) happy person raising one hand
   = raising_hand
 💆  (1f486) face massage
   = massage
+  ~ spa
 💇  (1f487) haircut
   = haircut
 💅  (1f485) nail polish
   = nail_care
+  ~ beauty, manicure
 👰  (1f470) bride with veil
   = bride_with_veil
+  ~ marriage, wedding
 🙎  (1f64e) person with pouting face
   = person_with_pouting_face
 🙍  (1f64d) person frowning
   = person_frowning
+  ~ sad
 🙇  (1f647) person bowing deeply
   = bow
+  ~ respect, thanks
 🎩  (1f3a9) top hat
   = tophat
+  ~ hat, classy
 👑  (1f451) crown
   = crown
+  ~ king, royal
 👒  (1f452) womans hat
   = womans_hat
 👟  (1f45f) athletic shoe
   = athletic_shoe
+  ~ sneaker, sport, running
 👞  (1f45e) mans shoe
   = mans_shoe, shoe
 👡  (1f461) womans sandal
   = sandal
+  ~ shoe
 👠  (1f460) high-heeled shoe
   = high_heel
+  ~ shoe
 👢  (1f462) womans boots
   = boot
 👕  (1f455) t-shirt
   = shirt, tshirt
 👔  (1f454) necktie
   = necktie
+  ~ shirt, formal
 👚  (1f45a) womans clothes
   = womans_clothes
 👗  (1f457) dress
   = dress
 🎽  (1f3bd) running shirt with sash
   = running_shirt_with_sash
+  ~ marathon
 👖  (1f456) jeans
   = jeans
+  ~ pants
 👘  (1f458) kimono
   = kimono
 👙  (1f459) bikini
   = bikini
+  ~ beach
 💼  (1f4bc) briefcase
   = briefcase
+  ~ business
 👜  (1f45c) handbag
   = handbag
+  ~ bag
 👝  (1f45d) pouch
   = pouch
+  ~ bag
 👛  (1f45b) purse
   = purse
 👓  (1f453) eyeglasses
   = eyeglasses
+  ~ glasses
 🎀  (1f380) ribbon
   = ribbon
 🌂  (1f302) closed umbrella
   = closed_umbrella
+  ~ weather, rain
 💄  (1f484) lipstick
   = lipstick
+  ~ makeup
 💛  (1f49b) yellow heart
   = yellow_heart
 💙  (1f499) blue heart
@@ -344,6 +450,7 @@
   = green_heart
 ❤️  (2764-fe0f) heavy black heart
   = heart
+  ~ love
 💔  (1f494) broken heart
   = broken_heart
 💗  (1f497) growing heart
@@ -358,34 +465,47 @@
   = revolving_hearts
 💘  (1f498) heart with arrow
   = cupid
+  ~ love, heart
 💌  (1f48c) love letter
   = love_letter
+  ~ email, envelope
 💋  (1f48b) kiss mark
   = kiss
+  ~ lipstick
 💍  (1f48d) ring
   = ring
+  ~ wedding, marriage, engaged
 💎  (1f48e) gem stone
   = gem
+  ~ diamond, ruby
 👤  (1f464) bust in silhouette
   = bust_in_silhouette
+  ~ user
 👥  (1f465) busts in silhouette
   = busts_in_silhouette
+  ~ users, group, team
 💬  (1f4ac) speech balloon
   = speech_balloon
+  ~ comment
 👣  (1f463) footprints
   = footprints
+  ~ feet, tracks
 💭  (1f4ad) thought balloon
   = thought_balloon
+  ~ thinking
 🐶  (1f436) dog face
   = dog
+  ~ pet
 🐺  (1f43a) wolf face
   = wolf
 🐱  (1f431) cat face
   = cat
+  ~ pet
 🐭  (1f42d) mouse face
   = mouse
 🐹  (1f439) hamster face
   = hamster
+  ~ pet
 🐰  (1f430) rabbit face
   = rabbit
 🐸  (1f438) frog face
@@ -432,6 +552,7 @@
   = snake
 🐢  (1f422) turtle
   = turtle
+  ~ slow
 🐛  (1f41b) bug
   = bug
 🐝  (1f41d) honeybee
@@ -440,12 +561,15 @@
   = ant
 🐞  (1f41e) lady beetle
   = beetle
+  ~ bug
 🐌  (1f40c) snail
   = snail
+  ~ slow
 🐙  (1f419) octopus
   = octopus
 🐚  (1f41a) spiral shell
   = shell
+  ~ sea, beach
 🐠  (1f420) tropical fish
   = tropical_fish
 🐟  (1f41f) fish
@@ -454,6 +578,7 @@
   = dolphin, flipper
 🐳  (1f433) spouting whale
   = whale
+  ~ sea
 🐋  (1f40b) whale
   = whale2
 🐄  (1f404) cow
@@ -472,6 +597,7 @@
   = dragon
 🐎  (1f40e) horse
   = racehorse
+  ~ speed
 🐐  (1f410) goat
   = goat
 🐓  (1f413) rooster
@@ -494,24 +620,31 @@
   = camel
 🐪  (1f42a) dromedary camel
   = dromedary_camel
+  ~ desert
 🐆  (1f406) leopard
   = leopard
 🐈  (1f408) cat
   = cat2
 🐩  (1f429) poodle
   = poodle
+  ~ dog
 🐾  (1f43e) paw prints
   = feet, paw_prints
 💐  (1f490) bouquet
   = bouquet
+  ~ flowers
 🌸  (1f338) cherry blossom
   = cherry_blossom
+  ~ flower
 🌷  (1f337) tulip
   = tulip
+  ~ flower
 🍀  (1f340) four leaf clover
   = four_leaf_clover
+  ~ luck
 🌹  (1f339) rose
   = rose
+  ~ flower
 🌻  (1f33b) sunflower
   = sunflower
 🌺  (1f33a) hibiscus
@@ -520,6 +653,7 @@
   = maple_leaf
 🍃  (1f343) leaf fluttering in wind
   = leaves
+  ~ leaf
 🍂  (1f342) fallen leaf
   = fallen_leaf
 🌿  (1f33f) herb
@@ -534,16 +668,20 @@
   = palm_tree
 🌲  (1f332) evergreen tree
   = evergreen_tree
+  ~ wood
 🌳  (1f333) deciduous tree
   = deciduous_tree
+  ~ wood
 🌰  (1f330) chestnut
   = chestnut
 🌱  (1f331) seedling
   = seedling
+  ~ plant
 🌼  (1f33c) blossom
   = blossom
 🌐  (1f310) globe with meridians
   = globe_with_meridians
+  ~ world, global, international
 🌞  (1f31e) sun with face
   = sun_with_face
 🌝  (1f31d) full moon with face
@@ -572,12 +710,16 @@
   = first_quarter_moon_with_face
 🌙  (1f319) crescent moon
   = crescent_moon
+  ~ night
 🌍  (1f30d) earth globe europe-africa
   = earth_africa
+  ~ globe, world, international
 🌎  (1f30e) earth globe americas
   = earth_americas
+  ~ globe, world, international
 🌏  (1f30f) earth globe asia-australia
   = earth_asia
+  ~ globe, world, international
 🌋  (1f30b) volcano
   = volcano
 🌌  (1f30c) milky way
@@ -588,40 +730,51 @@
   = star
 ☀️  (2600-fe0f) black sun with rays
   = sunny
+  ~ weather
 ⛅️  (26c5-fe0f) sun behind cloud
   = partly_sunny
+  ~ weather, cloud
 ☁️  (2601-fe0f) cloud
   = cloud
 ⚡️  (26a1-fe0f) high voltage sign
   = zap
+  ~ lightning, thunder
 ☔️  (2614-fe0f) umbrella with rain drops
   = umbrella
+  ~ rain, weather
 ❄️  (2744-fe0f) snowflake
   = snowflake
+  ~ winter, cold, weather
 ⛄️  (26c4-fe0f) snowman without snow
   = snowman
+  ~ winter, christmas
 🌀  (1f300) cyclone
   = cyclone
+  ~ swirl
 🌁  (1f301) foggy
   = foggy
 🌈  (1f308) rainbow
   = rainbow
 🌊  (1f30a) water wave
   = ocean
+  ~ sea
 🎍  (1f38d) pine decoration
   = bamboo
 💝  (1f49d) heart with ribbon
   = gift_heart
+  ~ chocolates
 🎎  (1f38e) japanese dolls
   = dolls
 🎒  (1f392) school satchel
   = school_satchel
 🎓  (1f393) graduation cap
   = mortar_board
+  ~ education, college, university, graduation
 🎏  (1f38f) carp streamer
   = flags
 🎆  (1f386) fireworks
   = fireworks
+  ~ festival, celebration
 🎇  (1f387) firework sparkler
   = sparkler
 🎐  (1f390) wind chime
@@ -630,60 +783,78 @@
   = rice_scene
 🎃  (1f383) jack-o-lantern
   = jack_o_lantern
+  ~ halloween
 👻  (1f47b) ghost
   = ghost
+  ~ halloween
 🎅  (1f385) father christmas
   = santa
+  ~ christmas
 🎄  (1f384) christmas tree
   = christmas_tree
 🎁  (1f381) wrapped present
   = gift
+  ~ present, birthday, christmas
 🎋  (1f38b) tanabata tree
   = tanabata_tree
 🎉  (1f389) party popper
   = tada
+  ~ party
 🎊  (1f38a) confetti ball
   = confetti_ball
 🎈  (1f388) balloon
   = balloon
+  ~ party, birthday
 🎌  (1f38c) crossed flags
   = crossed_flags
 🔮  (1f52e) crystal ball
   = crystal_ball
+  ~ fortune
 🎥  (1f3a5) movie camera
   = movie_camera
+  ~ film, video
 📷  (1f4f7) camera
   = camera
+  ~ photo
 📹  (1f4f9) video camera
   = video_camera
 📼  (1f4fc) videocassette
   = vhs
 💿  (1f4bf) optical disc
   = cd
+  ~ dvd
 📀  (1f4c0) dvd
   = dvd
+  ~ cd
 💽  (1f4bd) minidisc
   = minidisc
 💾  (1f4be) floppy disk
   = floppy_disk
+  ~ save
 💻  (1f4bb) personal computer
   = computer
+  ~ desktop, screen
 📱  (1f4f1) mobile phone
   = iphone
+  ~ smartphone
 ☎️  (260e-fe0f) black telephone
   = phone, telephone
+  ~ call
 📞  (1f4de) telephone receiver
   = telephone_receiver
+  ~ phone, call
 📟  (1f4df) pager
   = pager
 📠  (1f4e0) fax machine
   = fax
 📡  (1f4e1) satellite antenna
   = satellite
+  ~ signal
 📺  (1f4fa) television
   = tv
 📻  (1f4fb) radio
   = radio
+  ~ podcast
 🔊  (1f50a) speaker with three sound waves
   = loud_sound
 🔉  (1f509) speaker with one sound wave
@@ -692,36 +863,49 @@
   = speaker
 🔇  (1f507) speaker with cancellation stroke
   = mute
+  ~ sound, volume
 🔔  (1f514) bell
   = bell
+  ~ sound, notification
 🔕  (1f515) bell with cancellation stroke
   = no_bell
+  ~ volume, mute
 📢  (1f4e2) public address loudspeaker
   = loudspeaker
+  ~ announcement
 📣  (1f4e3) cheering megaphone
   = mega
 ⏳  (23f3) hourglass with flowing sand
   = hourglass_flowing_sand
+  ~ time
 ⌛️  (231b-fe0f) hourglass
   = hourglass
+  ~ time
 ⏰  (23f0) alarm clock
   = alarm_clock
+  ~ morning
 ⌚️  (231a-fe0f) watch
   = watch
+  ~ time
 🔓  (1f513) open lock
   = unlock
+  ~ security
 🔒  (1f512) lock
   = lock
+  ~ security, private
 🔏  (1f50f) lock with ink pen
   = lock_with_ink_pen
 🔐  (1f510) closed lock with key
   = closed_lock_with_key
+  ~ security
 🔑  (1f511) key
   = key
+  ~ lock, password
 🔎  (1f50e) right-pointing magnifying glass
   = mag_right
 💡  (1f4a1) electric light bulb
   = bulb
+  ~ idea, light
 🔦  (1f526) electric torch
   = flashlight
 🔆  (1f506) high brightness symbol
@@ -732,52 +916,69 @@
   = electric_plug
 🔋  (1f50b) battery
   = battery
+  ~ power
 🔍  (1f50d) left-pointing magnifying glass
   = mag
+  ~ search, zoom
 🛁  (1f6c1) bathtub
   = bathtub
 🛀  (1f6c0) bath
   = bath
+  ~ shower
 🚿  (1f6bf) shower
   = shower
+  ~ bath
 🚽  (1f6bd) toilet
   = toilet
 🔧  (1f527) wrench
   = wrench
+  ~ tool
 🔩  (1f529) nut and bolt
   = nut_and_bolt
 🔨  (1f528) hammer
   = hammer
+  ~ tool
 🚪  (1f6aa) door
   = door
 🚬  (1f6ac) smoking symbol
   = smoking
+  ~ cigarette
 💣  (1f4a3) bomb
   = bomb
+  ~ boom
 🔫  (1f52b) pistol
   = gun
+  ~ shoot, weapon
 🔪  (1f52a) hocho
   = hocho, knife
+  ~ cut, chop
 💊  (1f48a) pill
   = pill
+  ~ health, medicine
 💉  (1f489) syringe
   = syringe
+  ~ health, hospital, needle
 💰  (1f4b0) money bag
   = moneybag
+  ~ dollar, cream
 💴  (1f4b4) banknote with yen sign
   = yen
 💵  (1f4b5) banknote with dollar sign
   = dollar
+  ~ money
 💷  (1f4b7) banknote with pound sign
   = pound
 💶  (1f4b6) banknote with euro sign
   = euro
 💳  (1f4b3) credit card
   = credit_card
+  ~ subscription
 💸  (1f4b8) money with wings
   = money_with_wings
+  ~ dollar
 📲  (1f4f2) mobile phone with rightwards arrow at left
   = calling
+  ~ iphone, incoming
 📧  (1f4e7) e-mail symbol
   = e-mail
 📥  (1f4e5) inbox tray
@@ -786,6 +987,7 @@
   = outbox_tray
 ✉️  (2709-fe0f) envelope
   = email, envelope
+  ~ letter
 📩  (1f4e9) envelope with downwards arrow above
   = envelope_with_arrow
 📨  (1f4e8) incoming envelope
@@ -804,28 +1006,37 @@
   = postbox
 📦  (1f4e6) package
   = package
+  ~ shipping
 📝  (1f4dd) memo
   = memo, pencil
+  ~ document, note
 📄  (1f4c4) page facing up
   = page_facing_up
+  ~ document
 📃  (1f4c3) page with curl
   = page_with_curl
 📑  (1f4d1) bookmark tabs
   = bookmark_tabs
 📊  (1f4ca) bar chart
   = bar_chart
+  ~ graph, stats, metrics
 📈  (1f4c8) chart with upwards trend
   = chart_with_upwards_trend
+  ~ graph, metrics
 📉  (1f4c9) chart with downwards trend
   = chart_with_downwards_trend
+  ~ graph, metrics
 📜  (1f4dc) scroll
   = scroll
+  ~ document
 📋  (1f4cb) clipboard
   = clipboard
 📅  (1f4c5) calendar
   = date
+  ~ calendar, schedule
 📆  (1f4c6) tear-off calendar
   = calendar
+  ~ schedule
 📇  (1f4c7) card index
   = card_index
 📁  (1f4c1) file folder
@@ -834,6 +1045,7 @@
   = open_file_folder
 ✂️  (2702-fe0f) black scissors
   = scissors
+  ~ cut
 📌  (1f4cc) pushpin
   = pushpin
 📎  (1f4ce) paperclip
@@ -870,26 +1082,34 @@
   = name_badge
 🔬  (1f52c) microscope
   = microscope
+  ~ science, laboratory, investigate
 🔭  (1f52d) telescope
   = telescope
 📰  (1f4f0) newspaper
   = newspaper
+  ~ press
 🎨  (1f3a8) artist palette
   = art
+  ~ design, paint
 🎬  (1f3ac) clapper board
   = clapper
+  ~ film
 🎤  (1f3a4) microphone
   = microphone
+  ~ sing
 🎧  (1f3a7) headphone
   = headphones
+  ~ music, earphones
 🎼  (1f3bc) musical score
   = musical_score
 🎵  (1f3b5) musical note
   = musical_note
 🎶  (1f3b6) multiple musical notes
   = notes
+  ~ music
 🎹  (1f3b9) musical keyboard
   = musical_keyboard
+  ~ piano
 🎻  (1f3bb) violin
   = violin
 🎺  (1f3ba) trumpet
@@ -900,8 +1120,10 @@
   = guitar
 👾  (1f47e) alien monster
   = space_invader
+  ~ game
 🎮  (1f3ae) video game
   = video_game
+  ~ play, controller
 🃏  (1f0cf) playing card black joker
   = black_joker
 🎴  (1f3b4) flower playing cards
@@ -910,20 +1132,28 @@
   = mahjong
 🎲  (1f3b2) game die
   = game_die
+  ~ dice, gambling
 🎯  (1f3af) direct hit
   = dart
+  ~ target
 🏈  (1f3c8) american football
   = football
+  ~ sports
 🏀  (1f3c0) basketball and hoop
   = basketball
+  ~ sports
 ⚽️  (26bd-fe0f) soccer ball
   = soccer
+  ~ sports
 ⚾️  (26be-fe0f) baseball
   = baseball
+  ~ sports
 🎾  (1f3be) tennis racquet and ball
   = tennis
+  ~ sports
 🎱  (1f3b1) billiards
   = 8ball
+  ~ pool, billiards
 🏉  (1f3c9) rugby football
   = rugby_football
 🎳  (1f3b3) bowling
@@ -936,10 +1166,12 @@
   = bicyclist
 🏁  (1f3c1) chequered flag
   = checkered_flag
+  ~ milestone, finish
 🏇  (1f3c7) horse racing
   = horse_racing
 🏆  (1f3c6) trophy
   = trophy
+  ~ award, contest
 🎿  (1f3bf) ski and ski boot
   = ski
 🏂  (1f3c2) snowboarder
@@ -952,20 +1184,27 @@
   = fishing_pole_and_fish
 ☕️  (2615-fe0f) hot beverage
   = coffee
+  ~ cafe, espresso
 🍵  (1f375) teacup without handle
   = tea
+  ~ green, breakfast
 🍶  (1f376) sake bottle and cup
   = sake
 🍼  (1f37c) baby bottle
   = baby_bottle
+  ~ milk
 🍺  (1f37a) beer mug
   = beer
+  ~ drink, party
 🍻  (1f37b) clinking beer mugs
   = beers
+  ~ drinks, party
 🍸  (1f378) cocktail glass
   = cocktail
+  ~ drink
 🍹  (1f379) tropical drink
   = tropical_drink
+  ~ summer
 🍷  (1f377) wine glass
   = wine_glass
 🍴  (1f374) fork and knife
@@ -974,10 +1213,12 @@
   = pizza
 🍔  (1f354) hamburger
   = hamburger
+  ~ burger
 🍟  (1f35f) french fries
   = fries
 🍗  (1f357) poultry leg
   = poultry_leg
+  ~ meat, chicken
 🍖  (1f356) meat on bone
   = meat_on_bone
 🍝  (1f35d) spaghetti
@@ -986,6 +1227,7 @@
   = curry
 🍤  (1f364) fried shrimp
   = fried_shrimp
+  ~ tempura
 🍱  (1f371) bento box
   = bento
 🍣  (1f363) sushi
@@ -1000,6 +1242,7 @@
   = rice
 🍜  (1f35c) steaming bowl
   = ramen
+  ~ noodle
 🍲  (1f372) pot of food
   = stew
 🍢  (1f362) oden
@@ -1010,6 +1253,7 @@
   = egg
 🍞  (1f35e) bread
   = bread
+  ~ toast
 🍩  (1f369) doughnut
   = doughnut
 🍮  (1f36e) custard
@@ -1022,8 +1266,10 @@
   = shaved_ice
 🎂  (1f382) birthday cake
   = birthday
+  ~ party
 🍰  (1f370) shortcake
   = cake
+  ~ dessert
 🍪  (1f36a) cookie
   = cookie
 🍫  (1f36b) chocolate bar
@@ -1038,24 +1284,28 @@
   = apple
 🍏  (1f34f) green apple
   = green_apple
+  ~ fruit
 🍊  (1f34a) tangerine
   = tangerine
 🍋  (1f34b) lemon
   = lemon
 🍒  (1f352) cherries
   = cherries
+  ~ fruit
 🍇  (1f347) grapes
   = grapes
 🍉  (1f349) watermelon
   = watermelon
 🍓  (1f353) strawberry
   = strawberry
+  ~ fruit
 🍑  (1f351) peach
   = peach
 🍈  (1f348) melon
   = melon
 🍌  (1f34c) banana
   = banana
+  ~ fruit
 🍐  (1f350) pear
   = pear
 🍍  (1f34d) pineapple
@@ -1064,6 +1314,7 @@
   = sweet_potato
 🍆  (1f346) aubergine
   = eggplant
+  ~ aubergine
 🍅  (1f345) tomato
   = tomato
 🌽  (1f33d) ear of maize
@@ -1090,6 +1341,7 @@
   = hotel
 💒  (1f492) wedding
   = wedding
+  ~ marriage
 ⛪️  (26ea-fe0f) church
   = church
 🏬  (1f3ec) department store
@@ -1106,6 +1358,7 @@
   = european_castle
 ⛺️  (26fa-fe0f) tent
   = tent
+  ~ camping
 🏭  (1f3ed) factory
   = factory
 🗼  (1f5fc) tokyo tower
@@ -1138,20 +1391,25 @@
   = boat, sailboat
 🚤  (1f6a4) speedboat
   = speedboat
+  ~ ship
 🚣  (1f6a3) rowboat
   = rowboat
 ⚓️  (2693-fe0f) anchor
   = anchor
+  ~ ship
 🚀  (1f680) rocket
   = rocket
+  ~ ship, launch
 ✈️  (2708-fe0f) airplane
   = airplane
+  ~ flight
 💺  (1f4ba) seat
   = seat
 🚁  (1f681) helicopter
   = helicopter
 🚂  (1f682) steam locomotive
   = steam_locomotive
+  ~ train
 🚊  (1f68a) tram
   = tram
 🚉  (1f689) station
@@ -1196,6 +1454,7 @@
   = truck
 🚨  (1f6a8) police cars revolving light
   = rotating_light
+  ~ 911, emergency
 🚓  (1f693) police car
   = police_car
 🚔  (1f694) oncoming police car
@@ -1208,6 +1467,7 @@
   = minibus
 🚲  (1f6b2) bicycle
   = bike
+  ~ bicycle
 🚡  (1f6a1) aerial tramway
   = aerial_tramway
 🚟  (1f69f) suspension railway
@@ -1224,12 +1484,15 @@
   = ticket
 🚦  (1f6a6) vertical traffic light
   = vertical_traffic_light
+  ~ semaphore
 🚥  (1f6a5) horizontal traffic light
   = traffic_light
 ⚠️  (26a0-fe0f) warning sign
   = warning
+  ~ wip
 🚧  (1f6a7) construction sign
   = construction
+  ~ wip
 🔰  (1f530) japanese symbol for beginner
   = beginner
 ⛽️  (26fd-fe0f) fuel pump
@@ -1242,34 +1505,46 @@
   = hotsprings
 🗿  (1f5ff) moyai
   = moyai
+  ~ stone
 🎪  (1f3aa) circus tent
   = circus_tent
 🎭  (1f3ad) performing arts
   = performing_arts
+  ~ theater, drama
 📍  (1f4cd) round pushpin
   = round_pushpin
 🚩  (1f6a9) triangular flag on post
   = triangular_flag_on_post
 🇯🇵  (1f1ef-1f1f5) regional indicator symbol letter j + regional indicator symbol letter p
   = jp
+  ~ japan
 🇰🇷  (1f1f0-1f1f7) regional indicator symbol letter k + regional indicator symbol letter r
   = kr
+  ~ korea
 🇩🇪  (1f1e9-1f1ea) regional indicator symbol letter d + regional indicator symbol letter e
   = de
+  ~ flag, germany
 🇨🇳  (1f1e8-1f1f3) regional indicator symbol letter c + regional indicator symbol letter n
   = cn
+  ~ china
 🇺🇸  (1f1fa-1f1f8) regional indicator symbol letter u + regional indicator symbol letter s
   = us
+  ~ flag, united, america
 🇫🇷  (1f1eb-1f1f7) regional indicator symbol letter f + regional indicator symbol letter r
   = fr
+  ~ france, french
 🇪🇸  (1f1ea-1f1f8) regional indicator symbol letter e + regional indicator symbol letter s
   = es
+  ~ spain
 🇮🇹  (1f1ee-1f1f9) regional indicator symbol letter i + regional indicator symbol letter t
   = it
+  ~ italy
 🇷🇺  (1f1f7-1f1fa) regional indicator symbol letter r + regional indicator symbol letter u
   = ru
+  ~ russia
 🇬🇧  (1f1ec-1f1e7) regional indicator symbol letter g + regional indicator symbol letter b
   = gb, uk
+  ~ flag, british
 1️⃣  (0031-fe0f-20e3) digit one + combining enclosing keycap
   = one
 2️⃣  (0032-fe0f-20e3) digit two + combining enclosing keycap
@@ -1294,8 +1569,10 @@
   = keycap_ten
 🔢  (1f522) input symbol for numbers
   = 1234
+  ~ numbers
 #️⃣  (0023-fe0f-20e3) number sign + combining enclosing keycap
   = hash
+  ~ number
 🔣  (1f523) input symbol for symbols
   = symbols
 ⬆️  (2b06-fe0f) upwards black arrow
@@ -1308,10 +1585,12 @@
   = arrow_right
 🔠  (1f520) input symbol for latin capital letters
   = capital_abcd
+  ~ letters
 🔡  (1f521) input symbol for latin small letters
   = abcd
 🔤  (1f524) input symbol for latin letters
   = abc
+  ~ alphabet
 ↗️  (2197-fe0f) north east arrow
   = arrow_upper_right
 ↖️  (2196-fe0f) north west arrow
@@ -1326,6 +1605,7 @@
   = arrow_up_down
 🔄  (1f504) anticlockwise downwards and upwards open circle arrows
   = arrows_counterclockwise
+  ~ sync
 ◀️  (25c0-fe0f) black left-pointing triangle
   = arrow_backward
 ▶️  (25b6-fe0f) black right-pointing triangle
@@ -1336,6 +1616,7 @@
   = arrow_down_small
 ↩️  (21a9-fe0f) leftwards arrow with hook
   = leftwards_arrow_with_hook
+  ~ return
 ↪️  (21aa-fe0f) rightwards arrow with hook
   = arrow_right_hook
 ℹ️  (2139-fe0f) information source
@@ -1354,14 +1635,18 @@
   = arrow_heading_up
 🆗  (1f197) squared ok
   = ok
+  ~ yes
 🔀  (1f500) twisted rightwards arrows
   = twisted_rightwards_arrows
+  ~ shuffle
 🔁  (1f501) clockwise rightwards and leftwards open circle arrows
   = repeat
+  ~ loop
 🔂  (1f502) clockwise rightwards and leftwards open circle arrows with circled one overlay
   = repeat_one
 🆕  (1f195) squared new
   = new
+  ~ fresh
 🆙  (1f199) squared up with exclamation mark
   = up
 🆒  (1f192) squared cool
@@ -1372,8 +1657,10 @@
   = ng
 📶  (1f4f6) antenna with bars
   = signal_strength
+  ~ wifi
 🎦  (1f3a6) cinema
   = cinema
+  ~ film, movie
 🈁  (1f201) squared katakana koko
   = koko
 🈯️  (1f22f-fe0f) squared cjk unified ideograph-6307
@@ -1407,6 +1694,7 @@
   + 7121
 🚻  (1f6bb) restroom
   = restroom
+  ~ toilet
 🚹  (1f6b9) mens symbol
   = mens
 🚺  (1f6ba) womens symbol
@@ -1415,6 +1703,7 @@
   = baby_symbol
 🚾  (1f6be) water closet
   = wc
+  ~ toilet, restroom
 🚰  (1f6b0) potable water symbol
   = potable_water
 🚮  (1f6ae) put litter in its place symbol
@@ -1423,6 +1712,7 @@
   = parking
 ♿️  (267f-fe0f) wheelchair symbol
   = wheelchair
+  ~ accessibility
 🚭  (1f6ad) no smoking symbol
   = no_smoking
 🈷  (1f237) squared cjk unified ideograph-6708
@@ -1439,6 +1729,7 @@
   = passport_control
 🛄  (1f6c4) baggage claim
   = baggage_claim
+  ~ airport
 🛅  (1f6c5) left luggage
   = left_luggage
 🛃  (1f6c3) customs
@@ -1453,10 +1744,12 @@
   = cl
 🆘  (1f198) squared sos
   = sos
+  ~ help, emergency
 🆔  (1f194) squared id
   = id
 🚫  (1f6ab) no entry sign
   = no_entry_sign
+  ~ block, forbidden
 🔞  (1f51e) no one under eighteen symbol
   = underage
 📵  (1f4f5) no mobile phones
@@ -1473,6 +1766,7 @@
   = children_crossing
 ⛔️  (26d4-fe0f) no entry
   = no_entry
+  ~ limit
 ✳️  (2733-fe0f) eight spoked asterisk
   = eight_spoked_asterisk
 ❇️  (2747-fe0f) sparkle
@@ -1491,6 +1785,7 @@
   = vibration_mode
 📴  (1f4f4) mobile phone off
   = mobile_phone_off
+  ~ mute
 🅰  (1f170) negative squared latin capital letter a
   = a
 🅱  (1f171) negative squared latin capital letter b
@@ -1505,6 +1800,7 @@
   = loop
 ♻️  (267b-fe0f) black universal recycling symbol
   = recycle
+  ~ environment, green
 ♈️  (2648-fe0f) aries
   = aries
 ♉️  (2649-fe0f) taurus
@@ -1547,6 +1843,7 @@
   = registered
 ™  (2122) trade mark sign
   = tm
+  ~ trademark
 ❌  (274c) cross mark
   = x
 ‼️  (203c-fe0f) double exclamation mark
@@ -1555,8 +1852,10 @@
   = interrobang
 ❗️  (2757-fe0f) heavy exclamation mark symbol
   = exclamation, heavy_exclamation_mark
+  ~ bang
 ❓  (2753) black question mark ornament
   = question
+  ~ confused
 ❕  (2755) white exclamation mark ornament
   = grey_exclamation
 ❔  (2754) white question mark ornament
@@ -1643,6 +1942,7 @@
   = white_flower
 💯  (1f4af) hundred points symbol
   = 100
+  ~ score, perfect
 ✔️  (2714-fe0f) heavy check mark
   = heavy_check_mark
 ☑️  (2611-fe0f) ballot box with check

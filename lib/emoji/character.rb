@@ -32,10 +32,19 @@ module Emoji
       unicode_aliases << str
     end
 
+    # A list of tags associated with an emoji. Multiple emojis can share the
+    # same tags.
+    attr_reader :tags
+
+    def add_tag(tag)
+      tags << tag
+    end
+
     def initialize(raw)
       @raw = raw
       @aliases = []
       @unicode_aliases = []
+      @tags = []
 
       # Automatically add a representation of this emoji without the variation
       # selector to unicode aliases:

@@ -49,6 +49,13 @@ class EmojiTest < TestCase
     assert_equal :not_found, emoji
   end
 
+  test "emojis have tags" do
+    emoji = Emoji.find_by_alias('smile')
+    assert emoji.tags.include?('happy')
+    assert emoji.tags.include?('joy')
+    assert emoji.tags.include?('pleased')
+  end
+
   Emoji.names.each do |name|
     test "#{name} is a valid name" do
       assert_match /^[\w\+\-]+$/, name

@@ -75,6 +75,9 @@ module Emoji
           when /^\s*=/
             aliases = $'.strip.split(/\s*,\s*/)
             aliases.each { |name| char.add_alias(name) }
+          when /^\s*~/
+            tags = $'.strip.split(/\s*,\s*/)
+            tags.each { |name| char.add_tag(name) }
           when /^\s*\+/
             unicodes = $'.strip.split(/\s*,\s*/)
             unicodes.each { |codes|
