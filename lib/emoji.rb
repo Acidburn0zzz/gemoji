@@ -1,4 +1,5 @@
 require 'emoji/character'
+require 'json'
 
 module Emoji
   extend self
@@ -6,7 +7,7 @@ module Emoji
   NotFound = Class.new(IndexError)
 
   def data_file
-    File.expand_path('../../db/emoji.txt', __FILE__)
+    File.expand_path('../../db/emoji.json', __FILE__)
   end
 
   def images_path
@@ -70,37 +71,14 @@ module Emoji
     end
 
     def parse_data_file
-      emojis = []
-
-      File.open(data_file, 'r:UTF-8') do |file|
-        char = nil
-        file.each_line do |line|
-          case line
-          when /^(\S+)\s+\((.+?)\)/
-            emoji, hex = $1, $2
-            name, emoji = emoji, nil if 'custom' == hex
-            char = Emoji::Character.new(emoji)
-            char.add_alias(name) if name
-            emojis << char
-          when /^\s*=/
-            aliases = $'.strip.split(/\s*,\s*/)
-            aliases.each { |name| char.add_alias(name) }
-          when /^\s*~/
-            tags = $'.strip.split(/\s*,\s*/)
-            tags.each { |name| char.add_tag(name) }
-          when /^\s*\+/
-            unicodes = $'.strip.split(/\s*,\s*/)
-            unicodes.each { |codes|
-              raw = codes.split('-').map(&:hex).pack('U*')
-              char.add_unicode_alias(raw)
-            }
-          else
-            raise line.inspect
-          end
-        end
+      raw = File.open(data_file, 'r:UTF-8') { |data| JSON.parse(data.read) }
+      raw.map do |raw_emoji|
+        char = Emoji::Character.new(raw_emoji['emoji'])
+        raw_emoji.fetch('aliases').each { |name| char.add_alias(name) }
+        raw_emoji.fetch('unicodes', []).each { |uni| char.add_unicode_alias(uni) }
+        raw_emoji.fetch('tags').each { |tag| char.add_tag(tag) }
+        char
       end
-
-      emojis
     end
 
     def names_index
